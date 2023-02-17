@@ -1,0 +1,15 @@
+{
+  "typescript.tsdk": "node_modules\\typescript\\lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "cSpell.words": [
+    "Dexie",
+    "EHRDB",
+    "EHRW",
+    "Keypair",
+    "Organisation",
+    "polkadot",
+    "postreg",
+    "prereg",
+    "tailwindcss"
+  ]
+}
